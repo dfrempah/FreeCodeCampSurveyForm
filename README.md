@@ -1,5 +1,7 @@
 # FREECODECAMP RESPONSIVE DESIGN CHALLENGE 2 
 
+## Written in HTML5 + CSS3 + BOOTSTRAP 4 + JAVASCRIPT(BABEL)
+
 ## SURVEY FORM 
 
 ## USER STORIES 
@@ -21,4 +23,4 @@
 *  Inside the form element, I am presented with a textarea at the end for additional comments
 *  Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
 
-
+## TEST 17/17

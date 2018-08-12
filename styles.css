@@ -1,0 +1,15 @@
+body{
+    margin: 1%;
+    padding:5%;
+
+}
+h1,p{
+    text-align: center;
+}
+.main{
+    width: 60%;
+    padding:5%;
+    border: 1px solid teal;
+    align-self: center;
+  
+}
